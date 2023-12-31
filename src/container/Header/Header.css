@@ -1,0 +1,26 @@
+.app__header {
+    background-color: var(--color-black);
+}
+
+.app__wrapper_info button{
+    border-radius: 20px 50px;
+    background-color: var(--color-golden);
+}
+
+.app__wrapper_info button:hover{
+    color: aliceblue;
+    background-color: var(--color-gray);
+}
+
+.app__header-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 90px;
+}
+
+.app__header-img img {
+    width: 80%;
+}
