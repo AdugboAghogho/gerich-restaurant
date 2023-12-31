@@ -1,3 +1,7 @@
+body{
+  background-color: var(--color-golden);
+}
+
 .section__padding {
     padding: 4rem 6rem;
   }
