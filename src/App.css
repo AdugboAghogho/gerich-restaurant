@@ -2,6 +2,16 @@ body{
   background-color: var(--color-golden);
 }
 
+button{
+  border-radius: 20px 50px;
+  background-color: var(--color-golden);
+}
+
+button:hover{
+  color: aliceblue;
+  background-color: var(--color-gray);
+}
+
 .section__padding {
     padding: 4rem 6rem;
   }
@@ -69,6 +79,8 @@ body{
       border: none;
       outline: none;
       cursor: pointer;
+      border-radius: 20px 50px;
+      background-color: var(--color-golden);
   }
   
   .p__cormorant {
