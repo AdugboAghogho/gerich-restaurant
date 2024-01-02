@@ -37,3 +37,16 @@
     width: 410px;
     margin: 0 2rem;
 }
+
+.app__specialMenu-menu_img img{
+    width: 100%;
+    height: auto;
+}
+
+.app__specialMenu-menu_itmes{
+    display: flex;
+    flex-direction: column;
+
+    margin: 2rem 0;
+    width: 100%;
+}
