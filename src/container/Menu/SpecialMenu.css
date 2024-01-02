@@ -33,14 +33,15 @@
     flex-direction: column;
 }
 
-.app__specialMenu-menu_img {
+.app__specialsMenu-menu_img {
     width: 410px;
     margin: 0 2rem;
 }
 
-.app__specialMenu-menu_img img{
+.app__specialsMenu-menu_img img{
     width: 100%;
     height: auto;
+    border-radius: 20px;
 }
 
 .app__specialMenu-menu_itmes{
