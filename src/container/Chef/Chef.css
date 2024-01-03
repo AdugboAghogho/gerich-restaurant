@@ -6,6 +6,10 @@
     margin-top: 5rem;
 }
 
+.app__wrapper_img{
+    border-radius: 50px 30px;
+}
+
 .app__chef-content_quote {
     display: flex;
     justify-content: flex-start;
