@@ -2,7 +2,7 @@ import React from 'react';
 import { BsInstagram, BsArrowLeftShort, BsArrowRightShort } from 'react-icons/bs';
 
 import { SubHeading } from '../../components';
-import { images, data, images } from '../../constants';
+import { images } from '../../constants';
 
 import './Gallery.css';
 
@@ -30,15 +30,16 @@ const Gallery = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, 
           sit laboriosam cupiditate nulla voluptatibus autem.
         </p>
-
+ 
         <button type="button" className="custom__button">View More</button>
       </div>
 
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>
-          {galleryImages.map((image, index) = (
+          {galleryImages.map((image, index) => (
             <div className="app__gallery-images_card flex__center" key={`gallery_image-${index+ 1}`}>
               <img src={image} alt="gallery" />
+              <BsInstagram className="gallery__image-icon" />
             </div>
           ))}
         </div>
