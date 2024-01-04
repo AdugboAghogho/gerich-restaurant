@@ -29,7 +29,7 @@
 }
 
 .app__wrapper_img img{
-    border-radius: 30px 60px ;
+    border-radius: 60px ;
 }
 
 @media screen and (max-width: 1900px) {
