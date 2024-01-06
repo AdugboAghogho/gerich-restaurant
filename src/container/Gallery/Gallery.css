@@ -95,3 +95,7 @@
     background-color: var(--color-black);
     border-radius: 5px;
 }
+
+.app__gallery-icon:hover{
+    color: var(--color-white);
+}
