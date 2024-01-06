@@ -23,7 +23,7 @@ const FindUs = () => (
           Sat-Sun: 10.00am - 03.00am
         </p>
       </div>
-      <button type="button" className="custom__button" style={{ marginTop: '2rem' }}>View More</button>
+      <button type="button" className="custom__button" style={{ marginTop: '2rem' }}>Visit Us</button>
     </div>
 
     <div className="app__wrapper_img">
