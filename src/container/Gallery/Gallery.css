@@ -88,7 +88,7 @@
     bottom: 5%;
 }
 
-.app__gallery-icon {
+.gallery__arrow-icons {
     color: var(--color-golden);
     font-size: 2rem;
     cursor: pointer;
@@ -96,6 +96,6 @@
     border-radius: 5px;
 }
 
-.app__gallery-icon:hover{
+.gallery__arrow-icons:hover{
     color: var(--color-white);
 }
