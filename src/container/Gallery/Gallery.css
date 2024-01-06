@@ -99,3 +99,16 @@
 .gallery__arrow-icons:hover{
     color: var(--color-white);
 }
+
+@media screen and (min-width: 2000px) {
+    
+}
+@media screen and (max-width: 1150px) {
+    
+}
+@media screen and (min-width: 850px) {
+    
+}
+@media screen and (min-width: 650px) {
+    
+}
