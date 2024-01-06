@@ -16,3 +16,16 @@
     min-width: 500px;
     padding-right: 2rem;
 }
+
+.app__gallery-content button{
+    margin-top: 1rem;
+}
+
+.app__gallery-images{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    max-width: 50%;
+    position: relative;
+    border-radius: 30px 70px;
+}
