@@ -1,19 +1,19 @@
-.app__newsletter{
+.app__newsletter {
     padding: 2rem 4rem;
     border: 1px solid var(--color-golden);
     background: var(--color-black);
 }
 
-.app__newsletter-heading{
+.app__newsletter-heading {
     text-align: center;
 }
 
-.app__newsletter-input{
+.app__newsletter-input {
     flex-direction: row;
     margin-top: 3rem;
 }
 
-.app__newsletter-input input{
+.app__newsletter-input input {
     width: 620px;
     border: 1px solid var(--color-golden);
     border-radius: 50px 20px;
