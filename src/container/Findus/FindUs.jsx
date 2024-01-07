@@ -17,10 +17,10 @@ const FindUs = () => (
           Opening Hours
         </p>
         <p className="p__opensans">
-          Mon-Fri: 10.00am - 02.00am
+          Mon-Fri: 10:00am - 02:00am
         </p>
         <p className="p__opensans">
-          Sat-Sun: 10.00am - 03.00am
+          Sat-Sun: 10:00am - 03:00am
         </p>
       </div>
       <button type="button" className="custom__button" style={{ marginTop: '2rem' }}>Visit Us</button>
